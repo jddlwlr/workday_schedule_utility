@@ -9,7 +9,7 @@ setInterval(update, 1000);
 
 
 // Setting currentHour as a number
-var currentHour = 12;
+var currentHour = moment().hour();
 
 
 // Targeting button Elements

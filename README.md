@@ -22,7 +22,7 @@ This application is designed to be use in-browser to schedule the users day by h
   <br>
   <br>
 
-![Site overview image](.\assets\SiteImage.png)
+![Site overview image](https://github.com/jddlwlr/workday_schedule_utility/blob/main/assets/SiteImage.png?raw=true)
 
 ### Features
 
@@ -32,6 +32,9 @@ This application is designed to be use in-browser to schedule the users day by h
 <br>
 <br>
 
+## Code
+
+This application features many lines of code, most of which would be unnecessary if the development team had realized they were headed down a long, tedius road and decided to turn back early, or at least had not felt the overwhelming weight of _sunk-costs_ as they continued to edit variables and functions. A for-loop or two would _not_ have killed them. They are committed to doing better... next time. 
 
 ### Limitations
 
