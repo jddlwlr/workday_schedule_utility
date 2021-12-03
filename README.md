@@ -22,7 +22,7 @@ This application is designed to be use in-browser to schedule the users day by h
   <br>
   <br>
 
-![Site overview image](.\assets\SiteImage.png)
+![Site overview image](https://github.com/jddlwlr/workday_schedule_utility/blob/main/assets/SiteImage.png?raw=true)
 
 ### Features
 
